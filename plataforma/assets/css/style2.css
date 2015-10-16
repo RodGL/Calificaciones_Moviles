@@ -1,0 +1,1892 @@
+
+
+.estiloAdministradorpostcontent li
+{
+   font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif;
+}
+
+
+
+
+
+.estiloAdministradorpostcontent a
+{
+   text-decoration: none;
+   color: #A30A0D;
+}
+
+.estiloAdministradorpostcontent a:link
+{
+   text-decoration: none;
+   color: #A30A0D;
+}
+
+.estiloAdministradorpostcontent a:visited, .estiloAdministradorpostcontent a.visited
+{
+   color: #747674;
+}
+
+.estiloAdministradorpostcontent  a:hover, .estiloAdministradorpostcontent a.hover
+{
+   text-decoration: underline;
+   color: #DD0E12;
+}
+
+.estiloAdministradorpostcontent h1
+{
+   color: #55525B;
+   margin: 10px 0 0;
+   font-size: 26px;
+   text-align: center;
+}
+
+.estiloAdministradorblockcontent h1
+{
+   margin: 10px 0 0;
+   font-size: 26px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h1 a, .estiloAdministradorpostcontent h1 a:link, .estiloAdministradorpostcontent h1 a:hover, .estiloAdministradorpostcontent h1 a:visited, .estiloAdministradorblockcontent h1 a, .estiloAdministradorblockcontent h1 a:link, .estiloAdministradorblockcontent h1 a:hover, .estiloAdministradorblockcontent h1 a:visited 
+{
+   font-size: 26px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h2
+{
+   color: #736F7B;
+   margin: 10px 0 0;
+   font-size: 22px;
+   text-align: center;
+}
+
+.estiloAdministradorblockcontent h2
+{
+   margin: 10px 0 0;
+   font-size: 22px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h2 a, .estiloAdministradorpostcontent h2 a:link, .estiloAdministradorpostcontent h2 a:hover, .estiloAdministradorpostcontent h2 a:visited, .estiloAdministradorblockcontent h2 a, .estiloAdministradorblockcontent h2 a:link, .estiloAdministradorblockcontent h2 a:hover, .estiloAdministradorblockcontent h2 a:visited 
+{
+   font-size: 22px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h3
+{
+   color: #DD0E12;
+   margin: 10px 0 0;
+   font-size: 18px;
+   text-align: center;
+}
+
+.estiloAdministradorblockcontent h3
+{
+   margin: 10px 0 0;
+   font-size: 18px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h3 a, .estiloAdministradorpostcontent h3 a:link, .estiloAdministradorpostcontent h3 a:hover, .estiloAdministradorpostcontent h3 a:visited, .estiloAdministradorblockcontent h3 a, .estiloAdministradorblockcontent h3 a:link, .estiloAdministradorblockcontent h3 a:hover, .estiloAdministradorblockcontent h3 a:visited 
+{
+   font-size: 18px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h4
+{
+   color: #686A68;
+   margin: 10px 0 0;
+   font-size: 16px;
+   text-align: center;
+}
+
+.estiloAdministradorblockcontent h4
+{
+   margin: 10px 0 0;
+   font-size: 16px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h4 a, .estiloAdministradorpostcontent h4 a:link, .estiloAdministradorpostcontent h4 a:hover, .estiloAdministradorpostcontent h4 a:visited, .estiloAdministradorblockcontent h4 a, .estiloAdministradorblockcontent h4 a:link, .estiloAdministradorblockcontent h4 a:hover, .estiloAdministradorblockcontent h4 a:visited 
+{
+   font-size: 16px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h5
+{
+   color: #686A68;
+   margin: 10px 0 0;
+   font-size: 14px;
+   text-align: center;
+}
+
+.estiloAdministradorblockcontent h5
+{
+   margin: 10px 0 0;
+   font-size: 14px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h5 a, .estiloAdministradorpostcontent h5 a:link, .estiloAdministradorpostcontent h5 a:hover, .estiloAdministradorpostcontent h5 a:visited, .estiloAdministradorblockcontent h5 a, .estiloAdministradorblockcontent h5 a:link, .estiloAdministradorblockcontent h5 a:hover, .estiloAdministradorblockcontent h5 a:visited 
+{
+   font-size: 14px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h6
+{
+   color: #909290;
+   margin: 10px 0 0;
+   font-size: 13px;
+   text-align: center;
+}
+
+.estiloAdministradorblockcontent h6
+{
+   margin: 10px 0 0;
+   font-size: 13px;
+   text-align: center;
+}
+
+.estiloAdministradorpostcontent h6 a, .estiloAdministradorpostcontent h6 a:link, .estiloAdministradorpostcontent h6 a:hover, .estiloAdministradorpostcontent h6 a:visited, .estiloAdministradorblockcontent h6 a, .estiloAdministradorblockcontent h6 a:link, .estiloAdministradorblockcontent h6 a:hover, .estiloAdministradorblockcontent h6 a:visited 
+{
+   font-size: 13px;
+   text-align: center;
+}
+
+ul
+{
+   list-style-type: none;
+}
+
+ol
+{
+   list-style-position: inside;
+}
+
+html, body
+{
+   height:100%;
+}
+
+#estiloAdministradormain
+{
+   position: relative;
+   z-index: 0;
+   width: 100%;
+   min-height: 100%;
+   left: 0;
+   top: 0;
+   cursor:default;
+   overflow:hidden;
+}
+
+
+
+.cleared
+{
+   display:block;
+   clear: both;
+   float: none;
+   margin: 0;
+   padding: 0;
+   border: none;
+   font-size: 0;
+   height:0;
+   overflow:hidden;
+}
+
+.reset-box
+{
+   overflow:hidden;
+   display:table;
+}
+
+form
+{
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+table.position
+{
+   position: relative;
+   width: 100%;
+   table-layout: fixed;
+}
+
+/* Start Box */
+.estiloAdministradorbox, .estiloAdministradorbox-body {
+   margin:0 auto;
+   position:relative;
+}
+.estiloAdministradorbox:before, .estiloAdministradorbox:after, .estiloAdministradorbox-body:before, .estiloAdministradorbox-body:after {
+   position:absolute;
+   top:0;
+   bottom:0;
+   content:' ';
+   background-repeat: no-repeat;
+   line-height:0;
+}
+.estiloAdministradorbox:before,.estiloAdministradorbox-body:before{
+   left:0;
+}
+.estiloAdministradorbox:after,.estiloAdministradorbox-body:after{
+   right:0;
+}
+.estiloAdministradorbox:before {
+   overflow:hidden;
+   background-position: bottom left;
+   direction: ltr;
+   z-index:-3;
+}
+.estiloAdministradorbox:after {
+   background-position: bottom right;
+   z-index:-3;
+}
+.estiloAdministradorbox-body:before, .estiloAdministradorbox-body:after {
+   background-repeat:repeat-y;
+}
+.estiloAdministradorbox-body:before {
+   background-position: top left;
+   z-index:-3;
+}
+.estiloAdministradorbox-body:after {
+   background-position: top right;
+   z-index:-3;
+}
+
+.estiloAdministradorbox .estiloAdministradorbox:before, .estiloAdministradorbox .estiloAdministradorbox:after, .estiloAdministradorbox-body .estiloAdministradorbox-body:before, .estiloAdministradorbox-body .estiloAdministradorbox-body:after {
+   z-index:-2;
+}
+.estiloAdministradorbox .estiloAdministradorbox .estiloAdministradorbox:before, .estiloAdministradorbox .estiloAdministradorbox .estiloAdministradorbox:after, .estiloAdministradorbox-body .estiloAdministradorbox-body .estiloAdministradorbox-body:before, .estiloAdministradorbox-body .estiloAdministradorbox-body .estiloAdministradorbox-body:after {
+   z-index:-1;
+}
+/* End Box */
+
+/* Start Bar */
+.estiloAdministradorbar {
+   position:relative;
+}
+.estiloAdministradorbar:before, .estiloAdministradorbar:after {
+   position:absolute;
+   top:0;
+   bottom:0;
+   content:' ';
+   background-repeat:repeat;
+   z-index:-1;
+}
+.estiloAdministradorbar:before {
+   left:0;
+   background-position: top left;
+}
+.estiloAdministradorbar:after {
+   right:0;
+   background-position: top right;
+}
+/* End Bar */
+
+li h1, .estiloAdministradorpostcontent li h1, .estiloAdministradorblockcontent-body li h1 
+{
+   margin:1px;
+} 
+li h2, .estiloAdministradorpostcontent li h2, .estiloAdministradorblockcontent-body li h2 
+{
+   margin:1px;
+} 
+li h3, .estiloAdministradorpostcontent li h3, .estiloAdministradorblockcontent-body li h3 
+{
+   margin:1px;
+} 
+li h4, .estiloAdministradorpostcontent li h4, .estiloAdministradorblockcontent-body li h4 
+{
+   margin:1px;
+} 
+li h5, .estiloAdministradorpostcontent li h5, .estiloAdministradorblockcontent-body li h5 
+{
+   margin:1px;
+} 
+li h6, .estiloAdministradorpostcontent li h6, .estiloAdministradorblockcontent-body li h6 
+{
+   margin:1px;
+} 
+li p, .estiloAdministradorpostcontent li p, .estiloAdministradorblockcontent-body li p 
+{
+   margin:1px;
+}
+
+/* end Page */
+
+/* begin Box, Sheet */
+.estiloAdministradorsheet
+{
+   max-width:1000px;
+   margin-top: 17px;
+   margin-bottom: -3px;
+   cursor:auto;
+   width: 1000px;
+}
+.estiloAdministradorsheet-body 
+{
+   padding:6px;
+   min-width:24px;
+   min-height:24px;
+   padding-top:6px;
+   padding-bottom:8px;
+}
+.estiloAdministradorsheet:before, .estiloAdministradorsheet:after 
+{
+   content: url('imagesM/sheet_t.png');
+   font-size: 0;
+   background-image: url('imagesM/sheet_b.png');
+}
+.estiloAdministradorsheet:after{
+   clip:rect(auto, auto, auto, 982px);
+}
+.estiloAdministradorsheet:before,.estiloAdministradorsheet-body:before{
+   right:18px;
+}
+.estiloAdministradorsheet-body:after{
+   width: 18px;
+   top:18px;
+   bottom:18px;
+   background-image:url('imagesM/sheet.png');
+}
+.estiloAdministradorsheet-body:before{
+   top:18px;
+   bottom:18px;
+   background-image:url('imagesM/sheet.png');
+}
+
+/* end Box, Sheet */
+
+/* begin Menu */
+/* menu structure */
+
+ul.estiloAdministradorhmenu a, ul.estiloAdministradorhmenu a:link, ul.estiloAdministradorhmenu a:visited, ul.estiloAdministradorhmenu a:hover 
+{
+    
+    color:  #ffffff;
+   outline: none;
+   position: relative;
+   z-index: 11;
+}
+
+ul.estiloAdministradorhmenu, ul.estiloAdministradorhmenu ul
+{
+   display: block;
+   margin: 0;
+   padding: 0;
+   border: 0;
+   list-style-type: none;
+}
+
+ul.estiloAdministradorhmenu li
+{
+   margin: 0;
+   padding: 0;
+   border: 0;
+   display: block;
+   float: left;
+   position: relative;
+   z-index: 5;
+   background: none;
+}
+
+ul.estiloAdministradorhmenu li:hover{
+   z-index: 10000;
+   white-space: normal;
+}
+ul.estiloAdministradorhmenu li li{
+   float: none;
+   width: auto;
+}
+ul.estiloAdministradorhmenu li:hover>ul {
+   visibility: visible;
+   top: 100%;
+}
+ul.estiloAdministradorhmenu li li:hover>ul {
+   top: 0;
+   left: 100%;
+}
+ul.estiloAdministradorhmenu:after, ul.estiloAdministradorhmenu ul:after
+{
+   content: ".";
+   height: 0;
+   display: block;
+   visibility: hidden;
+   overflow: hidden;
+   clear: both;
+}
+ul.estiloAdministradorhmenu, ul.estiloAdministradorhmenu ul {
+   min-height: 0;
+}
+
+ul.estiloAdministradorhmenu ul
+{
+   visibility: hidden;
+   position: absolute;
+   z-index: 10;
+   left: 0;
+   top: 0;
+   background-image: url('imagesM/spacer.gif');
+   padding: 10px 30px 30px 30px;
+   margin: -10px 0 0 -30px;
+}
+
+ul.estiloAdministradorhmenu ul.estiloAdministradorhmenu-left-to-right {
+   right: auto;
+   left: 0;
+   margin: -10px 0 0 -30px;
+}
+ul.estiloAdministradorhmenu ul.estiloAdministradorhmenu-right-to-left {
+   left: auto;
+   right: 0;
+   margin: -10px -30px 0 0;
+}
+
+ul.estiloAdministradorhmenu ul ul
+{
+   padding: 30px 30px 30px 10px;
+   margin: -30px 0 0 -10px;
+   margin-left: -11px;
+   z-index: -1;
+}
+
+ul.estiloAdministradorhmenu ul ul.estiloAdministradorhmenu-left-to-right
+{
+   right: auto;
+   left: 0;
+   padding: 30px 30px 30px 10px;
+   margin: -30px 0 0 -10px;
+   margin-left: -11px;
+}
+
+ul.estiloAdministradorhmenu ul ul.estiloAdministradorhmenu-right-to-left
+{
+   left: auto;
+   right: 0;
+   padding: 30px 10px 30px 30px;
+   margin: -30px -10px 0 0;
+   margin-right: -11px;
+}
+
+ul.estiloAdministradorhmenu li li:hover>ul.estiloAdministradorhmenu-left-to-right {
+   right: auto;
+   left: 100%;
+}
+ul.estiloAdministradorhmenu li li:hover>ul.estiloAdministradorhmenu-right-to-left {
+   left: auto;
+   right: 100%;
+}
+
+ul.estiloAdministradorhmenu{
+   position:relative;
+   padding: 4px 4px 4px 4px;
+   float: left;
+}
+
+/* end menu structure */
+
+/* menu bar */
+
+.estiloAdministradornav
+{
+   margin:0 auto;
+   min-height: 44px;
+   z-index: 100;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+/* end menu bar */
+.estiloAdministradornav-outer{
+   position:absolute;
+   width:100%;
+   background-color:  #005488;
+}
+
+/* end Menu */
+
+/* begin MenuItem */
+ul.estiloAdministradorhmenu>li>a
+{
+   position: relative;
+   display: block;
+   height: 36px;
+   cursor: pointer;
+   text-decoration: none;
+   color: #3C3A40;
+   padding: 0 24px;
+   line-height: 36px;
+   text-align: center;
+}
+
+ul.estiloAdministradorhmenu>li>a:before, ul.estiloAdministradorhmenu>li>a:after
+{
+   position: absolute;
+   display: block;
+   content:' ';
+   top: 0;
+   bottom:0;
+   z-index: -1;
+   background-image: url('imagesM/menuitem.png');
+}
+
+ul.estiloAdministradorhmenu>li>a:before
+{
+   left: 0;
+   right: 1px;
+   background-position: top left;
+}
+
+ul.estiloAdministradorhmenu>li>a:after
+{
+   width: 1px;
+   right: 0;
+   background-position: top right;
+}
+
+.estiloAdministradorhmenu a, .estiloAdministradorhmenu a:link, .estiloAdministradorhmenu a:visited, .estiloAdministradorhmenu a:hover
+{
+   text-align: left;
+   text-decoration: none;
+}
+
+ul.estiloAdministradorhmenu>li>a.active:before {
+   background-position: bottom left;
+} 
+ul.estiloAdministradorhmenu>li>a.active:after {
+   background-position: bottom right;
+}
+ul.estiloAdministradorhmenu>li>a.active {
+   color: #303130;
+}
+
+ul.estiloAdministradorhmenu>li>a:hover:before, ul.estiloAdministradorhmenu>li:hover>a:before {
+   background-position: center left;
+}
+ul.estiloAdministradorhmenu>li>a:hover:after, ul.estiloAdministradorhmenu>li:hover>a:after {
+   background-position: center right;
+}
+ul.estiloAdministradorhmenu>li>a:hover, ul.estiloAdministradorhmenu>li:hover>a{
+   color: #DBDCDB;
+}
+
+/* end MenuItem */
+
+/* begin MenuSeparator */
+ul.estiloAdministradorhmenu>li:before
+{
+   position:absolute;
+   display: block;
+   content:' ';
+   top:0;
+   left:  -13px;
+   width:13px;
+   height: 36px;
+   background: url('imagesM/menuseparator.png') center center no-repeat;
+}
+
+ul.estiloAdministradorhmenu>li {
+   margin-left:13px;
+}
+ul.estiloAdministradorhmenu>li:first-child {
+   margin-left:0;
+}
+
+ul.estiloAdministradorhmenu>li:first-child:before{
+   display:none;
+}
+/* end MenuSeparator */
+
+/* begin MenuSubItem */
+.estiloAdministradorhmenu ul a
+{
+   display: block;
+   white-space: nowrap;
+   height: 27px;
+   background-image: url('imagesM/subitem.png');
+   background-position: left top;
+   background-repeat: repeat-x;
+   border-width: 1px;
+   border-style: solid;
+   border-top-width: 0;
+   border-color: #625E68;
+   min-width: 7em;
+   text-align: left;
+   text-decoration: none;
+   line-height: 27px;
+   color: #19181B;
+   font-size: 12px;
+   margin:0;
+   padding: 0 22px;
+}
+
+.estiloAdministradorhmenu ul>li:first-child>a
+{
+   border-top-width: 1px;
+}
+
+.estiloAdministradorhmenu ul a:link, .estiloAdministradorhmenu ul a:visited, .estiloAdministradorhmenu ul a:hover, .estiloAdministradorhmenu ul a:active
+{
+   text-align: left;
+   text-decoration: none;
+   line-height: 27px;
+   color: #19181B;
+   font-size: 12px;
+   margin:0;
+   padding: 0 22px;
+}
+
+.estiloAdministradorhmenu ul li a:hover
+{
+   color: #DEDEDE;
+   background-position: left bottom;
+   border-color: #625E68;
+   border-top-width: 1px !important;
+}
+
+.estiloAdministradorhmenu ul li a.estiloAdministradorhmenu-before-hovered
+{
+   border-bottom-width: 0 !important;
+}
+
+.estiloAdministradorhmenu ul li:hover>a
+{
+   color: #DEDEDE;
+   background-position: left bottom;
+   border-color: #625E68;
+   border-top-width: 1px !important;
+}
+
+/* end MenuSubItem */
+
+/* begin Header */
+div.estiloAdministradorheader
+{
+   margin: 0 auto;
+   position: relative;
+   width:100%;
+   height: 280px;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+.estiloAdministradorheader:before
+{
+   position: absolute;
+   display:block;
+   content:' ';
+   z-index:-2;
+   top: 0;
+   width:100%;
+   height: 280px;
+   background-image: url('imagesM/header.png');
+   background-repeat: no-repeat;
+   background-position:top center;
+}
+
+.estiloAdministradorheader:after
+{
+   position: absolute;
+   z-index:-1;
+   display:block;
+   content:' ';
+   top: 0;
+   left:3px;
+   right:3px;
+   height: 280px;
+   background-image: url('imagesM/header.jpg');
+   background-repeat: no-repeat;
+   background-position: center center;
+}
+/* end Header */
+
+/* begin Logo */
+div.estiloAdministradorlogo
+{
+   display: block;
+   position: absolute;
+   top: 100px;
+   left: 0;
+   margin-left: 12px;
+}
+
+.estiloAdministradorlogo-name
+{
+   display: block;
+   text-align: left;
+   font-size: 34px;
+   padding: 0;
+   margin: 0;
+   color: #D6D4D8 !important;
+}
+.estiloAdministradorlogo-name a, 
+.estiloAdministradorlogo-name a:link, 
+.estiloAdministradorlogo-name a:visited, 
+.estiloAdministradorlogo-name a:hover
+{
+   font-size: 34px;
+   padding: 0;
+   margin: 0;
+   color: #D6D4D8 !important;
+}
+
+.estiloAdministradorlogo-text
+{
+   display: block;
+   text-align: left;
+   font-size: 19px;
+   padding: 0;
+   margin: 0;
+   color: #B9B7BE !important;
+}
+.estiloAdministradorlogo-text a,
+.estiloAdministradorlogo-text a:link,
+.estiloAdministradorlogo-text a:visited,
+.estiloAdministradorlogo-text a:hover
+{
+   font-size: 19px;
+   padding: 0;
+   margin: 0;
+   color: #B9B7BE !important;
+}
+
+#headline, #slogan 
+{
+   display: block;
+   min-width: 150px;
+   text-align: left;
+}
+/* end Logo */
+
+/* begin Layout */
+.estiloAdministradorlayout-wrapper
+{
+   position:relative;
+   margin:10px auto 0 auto;
+}
+
+.estiloAdministradorcontent-layout
+{
+   display: table;
+   width:100%;
+   table-layout: fixed;
+   border-collapse: collapse;
+}
+
+.estiloAdministradorcontent-layout-row {
+   display: table-row;
+}
+
+.estiloAdministradorlayout-cell
+{
+   display: table-cell;
+   vertical-align: top;
+}
+/* end Layout */
+
+/* begin Box, Block, VMenuBlock */
+.estiloAdministradorvmenublock
+{
+   max-width:988px;
+   margin: 0;
+}
+.estiloAdministradorvmenublock-body 
+{
+   padding:0;
+}
+
+/* end Box, Block, VMenuBlock */
+
+/* begin BlockHeader, VMenuBlockHeader */
+.estiloAdministradorvmenublockheader {
+   margin-bottom: 0;
+   min-height: 40px;
+   line-height:40px;
+}
+.estiloAdministradorvmenublockheader:before, .estiloAdministradorvmenublockheader:after{
+   background-image: url('imagesM/vmenublockheader.png');
+}
+.estiloAdministradorvmenublockheader:before{
+   right: 25px;
+}
+.estiloAdministradorvmenublockheader:after{
+   width: 25px;
+}
+
+.estiloAdministradorvmenublockheader .t
+{
+   min-height: 40px;
+   line-height:40px;
+   color: #000000;
+   font-size: 16px;
+   text-align: center;
+   margin:0;
+   padding: 0 10px 0 31px;
+   white-space: nowrap;
+}
+
+.estiloAdministradorvmenublockheader .t a,
+.estiloAdministradorvmenublockheader .t a:link,
+.estiloAdministradorvmenublockheader .t a:visited, 
+.estiloAdministradorvmenublockheader .t a:hover
+{
+   color: #000000;
+   font-size: 16px;
+   text-align: center;
+}
+
+/* end BlockHeader, VMenuBlockHeader */
+
+/* begin Box, Box, VMenuBlockContent */
+.estiloAdministradorvmenublockcontent
+{
+   max-width:988px;
+}
+.estiloAdministradorvmenublockcontent-body 
+{
+   padding:0;
+}
+
+/* end Box, Box, VMenuBlockContent */
+
+/* begin VMenu */
+ul.estiloAdministradorvmenu, ul.estiloAdministradorvmenu ul
+{
+   list-style: none;
+   display: block;
+}
+
+ul.estiloAdministradorvmenu, ul.estiloAdministradorvmenu li
+{
+   display: block;
+   margin: 0;
+   padding: 0;
+   width: auto;
+   line-height: 0;
+}
+
+ul.estiloAdministradorvmenu
+{
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+ul.estiloAdministradorvmenu ul
+{
+   display: none;
+   margin: 0;
+   padding: 0;
+   position:relative;
+   margin-left: 0;
+   margin-right: 0;
+}
+
+ul.estiloAdministradorvmenu ul.active
+{
+   display: block;
+}
+/* end VMenu */
+
+/* begin VMenuItem */
+ul.estiloAdministradorvmenu a 
+{
+   display: block;
+   cursor: pointer;
+   z-index:0;
+   text-decoration: none;
+   font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 13px;
+   margin-left:0;
+   margin-right:0;
+   position:relative;
+}
+
+ul.estiloAdministradorvmenu li{
+   position:relative;
+}
+
+ul.estiloAdministradorvmenu>li>a 
+{
+   color: #565856;
+   padding: 0 10px 0 10px;
+   height: 34px;
+   line-height: 34px;
+   white-space: nowrap;
+}
+
+ul.estiloAdministradorvmenu>li>a.active {
+   color: #A30A0D;
+}
+ul.estiloAdministradorvmenu a:hover, ul.estiloAdministradorvmenu a.active:hover {
+   color: #A30A0D;
+}
+
+ul.estiloAdministradorvmenu>li>a:before, ul.estiloAdministradorvmenu>li>a:after 
+{
+   position: absolute;
+   display: block;
+   content: ' ';
+   z-index:-1;
+   background-image: url('imagesM/vmenuitem.png');
+   top:0;
+   height:34px;
+}
+
+ul.estiloAdministradorvmenu>li>a:before{
+   left: 0;
+   right: 0;
+   background-position: top left;
+}
+ul.estiloAdministradorvmenu>li>a:after{
+   width: 0;
+   right: 0;
+   background-position: top right;
+}
+ul.estiloAdministradorvmenu>li>a.active:before {
+   background-position: bottom left;
+}
+ul.estiloAdministradorvmenu>li>a.active:after {
+   background-position: bottom right;
+}
+ul.estiloAdministradorvmenu>li>a:hover {
+   background-color: transparent;
+}
+ul.estiloAdministradorvmenu>li>a:hover:before  {
+   background-position: center left;
+}
+ul.estiloAdministradorvmenu>li>a:hover:after {
+   background-position: center right;
+}
+
+ul.estiloAdministradorvmenu>li{
+   margin-top:2px;
+}
+ul.estiloAdministradorvmenu>li>ul{
+   margin-top:2px;
+   padding-bottom: 2px;
+}
+ul.estiloAdministradorvmenu>li:first-child{
+   margin-top:0;
+}
+
+/* end VMenuItem */
+
+/* begin VMenuSubItem */
+ul.estiloAdministradorvmenu ul li{
+   margin: 0;
+   padding: 0;
+}
+ul.estiloAdministradorvmenu li li, ul.estiloAdministradorvmenu li li a {
+   position:relative;
+}
+
+ul.estiloAdministradorvmenu ul a
+{
+   display: block;
+   position:relative;
+   white-space: nowrap;
+   height: 32px;
+   overflow: visible;
+   background-image: url('imagesM/vsubitem.png');
+   background-repeat: repeat-x;
+   background-position: top left;
+   padding:0;
+   padding-left:15px;
+   padding-right:15px;
+   line-height: 32px;
+   color: #55525B;
+   font-size: 12px;
+   margin-left: 0;
+   margin-right: 0;
+}
+
+ul.estiloAdministradorvmenu ul a.active{
+   background-position: bottom left;
+}
+ul.estiloAdministradorvmenu ul a:hover{
+   background-position: center left;
+   line-height: 32px;
+   color: #55525B;
+   font-size: 12px;
+   margin-left: 0;
+   margin-right: 0;
+}
+ul.estiloAdministradorvmenu ul li li a:hover, ul.estiloAdministradorvmenu ul li li a:hover.active{
+   background-position: left center;
+}
+
+ul.estiloAdministradorvmenu ul a:link, ul.estiloAdministradorvmenu ul a:visited, ul.estiloAdministradorvmenu ul a:active
+{
+   line-height: 32px;
+   color: #55525B;
+   font-size: 12px;
+   margin-left: 0;
+   margin-right: 0;
+}
+
+ul.estiloAdministradorvmenu>li>ul>li:first-child{
+   padding-top: 2px;
+   margin-top:0;
+}
+ 
+ul.estiloAdministradorvmenu li li{
+   position:relative;
+   margin-top:6px;
+}
+
+ul.estiloAdministradorvmenu ul ul a{
+   padding-left:30px;
+}
+ul.estiloAdministradorvmenu ul ul ul a{
+   padding-left:45px;
+}
+ul.estiloAdministradorvmenu ul ul ul ul a{
+   padding-left:60px;
+}
+ul.estiloAdministradorvmenu ul ul ul ul ul a{
+   padding-left:75px;
+}
+
+ul.estiloAdministradorvmenu ul li a.active {
+   color: #A30A0D;
+}
+ul.estiloAdministradorvmenu ul li a:hover, ul.estiloAdministradorvmenu ul li a:hover.active {
+   color: #DD0E12;
+}
+
+/* end VMenuSubItem */
+
+/* begin Box, Block */
+.estiloAdministradorblock
+{
+   max-width:988px;
+   margin: 10px;
+}
+.estiloAdministradorblock-body 
+{
+   padding:3px;
+}
+
+div.estiloAdministradorblock img
+{
+   /* WARNING do NOT collapse this to 'border' - inheritance! */
+  border-width: 1px;
+   border-color: #B4B6B4;
+   border-style: solid;
+   margin: 5px;
+}
+
+/* end Box, Block */
+
+/* begin Box, BlockContent */
+.estiloAdministradorblockcontent
+{
+   max-width:988px;
+}
+.estiloAdministradorblockcontent-body 
+{
+   padding:0;
+   color: #141514;
+   font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif;
+   font-size: 13px;
+}
+.estiloAdministradorblockcontent-body table,
+.estiloAdministradorblockcontent-body li, 
+.estiloAdministradorblockcontent-body a,
+.estiloAdministradorblockcontent-body a:link,
+.estiloAdministradorblockcontent-body a:visited,
+.estiloAdministradorblockcontent-body a:hover
+{
+   color: #141514;
+   font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif;
+   font-size: 13px;
+}
+
+.estiloAdministradorblockcontent-body p
+{
+   margin: 0 5px;
+}
+
+.estiloAdministradorblockcontent-body a, .estiloAdministradorblockcontent-body a:link
+{
+   color: #DD0E12;
+   text-decoration: none;
+}
+
+.estiloAdministradorblockcontent-body a:visited, .estiloAdministradorblockcontent-body a.visited
+{
+   color: #747674;
+   text-decoration: none;
+}
+
+.estiloAdministradorblockcontent-body a:hover, .estiloAdministradorblockcontent-body a.hover
+{
+   color: #DD0E12;
+   text-decoration: underline;
+}
+
+.estiloAdministradorblockcontent-body ul li
+{
+   line-height: 125%;
+   color: #686A68;
+   margin: 5px 0 0 10px;
+   padding: 0 0 0 12px;
+   background-image: url('imagesM/blockcontentbullets.png');
+   background-repeat: no-repeat;
+   background-position: top left;
+}
+/* end Box, BlockContent */
+
+/* begin Button */
+span.estiloAdministradorbutton-wrapper>a.estiloAdministradorbutton,
+span.estiloAdministradorbutton-wrapper>a.estiloAdministradorbutton:link,
+span.estiloAdministradorbutton-wrapper>input.estiloAdministradorbutton,
+span.estiloAdministradorbutton-wrapper>button.estiloAdministradorbutton
+{
+   text-decoration: none;
+   font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 11px;
+   position:relative;
+   top:0;
+   display: inline-block;
+   vertical-align: middle;
+   white-space: nowrap;
+   text-align: center;
+   color: #DBDADD !important;
+   width: auto;
+   outline: none;
+   border: none;
+   background: none;
+   line-height: 28px;
+   height: 28px;
+   margin: 0 !important;
+   padding: 0 15px !important;
+   overflow: visible;
+   cursor: pointer;
+   text-indent: 0;
+}
+
+.estiloAdministradorbutton img, span.estiloAdministradorbutton-wrapper img
+{
+   margin: 0;
+   vertical-align: middle;
+}
+
+span.estiloAdministradorbutton-wrapper
+{
+   vertical-align: middle;
+   display: inline-block;
+   position: relative;
+   height: 28px;
+   overflow: hidden;
+   white-space: nowrap;
+   text-indent: 0;
+   width: auto;
+   max-width:988px;
+   margin: 0;
+   padding: 0;
+   z-index: 0;
+}
+
+.firefox2 span.estiloAdministradorbutton-wrapper
+{
+   display: block;
+   float: left;
+}
+
+input, select, textarea
+{
+   vertical-align: middle;
+   font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 11px;
+}
+
+div.estiloAdministradorblock select 
+{
+   width:96%;
+}
+
+span.estiloAdministradorbutton-wrapper.hover>.estiloAdministradorbutton, span.estiloAdministradorbutton-wrapper.hover>a.estiloAdministradorbutton:link
+{
+   color: #000000 !important;
+   text-decoration: none !important;
+}
+
+span.estiloAdministradorbutton-wrapper.active>.estiloAdministradorbutton, span.estiloAdministradorbutton-wrapper.active>a.estiloAdministradorbutton:link
+{
+   color: #DBDADD !important;
+}
+
+span.estiloAdministradorbutton-wrapper>span.estiloAdministradorbutton-l, span.estiloAdministradorbutton-wrapper>span.estiloAdministradorbutton-r
+{
+   display: block;
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   margin: 0;
+   padding: 0;
+   background-image: url('imagesM/button.png');
+   background-repeat: no-repeat;
+}
+
+span.estiloAdministradorbutton-wrapper>span.estiloAdministradorbutton-l
+{
+   left: 0;
+   right: 8px;
+   background-position: top left;
+}
+
+span.estiloAdministradorbutton-wrapper>span.estiloAdministradorbutton-r
+{
+   width: 8px;
+   right: 0;
+   background-position: top right;
+}
+
+span.estiloAdministradorbutton-wrapper.hover>span.estiloAdministradorbutton-l
+{
+   background-position: center left;
+}
+
+span.estiloAdministradorbutton-wrapper.hover>span.estiloAdministradorbutton-r
+{
+   background-position: center right;
+}
+
+span.estiloAdministradorbutton-wrapper.active>span.estiloAdministradorbutton-l
+{
+   background-position: bottom left;
+}
+
+span.estiloAdministradorbutton-wrapper.active>span.estiloAdministradorbutton-r
+{
+   background-position: bottom right;
+}
+
+span.estiloAdministradorbutton-wrapper input
+{
+   float: none !important;
+}
+/* end Button */
+
+/* begin Box, Post */
+.estiloAdministradorpost
+{
+   max-width:988px;
+   margin: 5px;
+}
+.estiloAdministradorpost-body 
+{
+   padding:10px;
+}
+
+a img
+{
+   border: 0;
+}
+
+.estiloAdministradorarticle img, img.estiloAdministradorarticle, .estiloAdministradorblock img, .estiloAdministradorfooter img
+{
+   border-color: #B4B6B4;
+   border-style: solid;
+   border-width: 0;
+   margin: 5px 5px 5px 5px;
+}
+
+.estiloAdministradormetadata-icons img
+{
+   border: none;
+   vertical-align: middle;
+   margin: 2px;
+}
+
+.estiloAdministradorarticle table, table.estiloAdministradorarticle
+{
+   border-collapse: collapse;
+   margin: 1px;
+}
+
+.estiloAdministradorpost .estiloAdministradorcontent-layout-br
+{
+   height: 0;
+}
+
+.estiloAdministradorarticle th, .estiloAdministradorarticle td
+{
+   padding: 2px;
+   border: solid 1px #818381;
+   vertical-align: top;
+   text-align: left;
+}
+
+.estiloAdministradorarticle th
+{
+   text-align: center;
+   vertical-align: middle;
+   padding: 7px;
+}
+
+pre
+{
+   overflow: auto;
+   padding: 0.1em;
+}
+
+#preview-image
+{
+   float: left;
+   }
+
+.preview-cms-logo
+{
+   border: 0;
+   margin: 1em 1em 0 0;
+   float: left;
+}
+
+.preview-sharepoint-logo
+{
+   border: 0;
+   margin: 5px;
+   float: left;
+}
+/* end Box, Post */
+
+/* begin PostMetadata, PostMetadataHeader */
+.estiloAdministradorpostmetadataheader
+{
+   position:relative;
+   z-index:1;
+   padding: 1px;
+   background-image: url('imagesM/postmetadataheader_bg.png');
+}
+/* end PostMetadata, PostMetadataHeader */
+
+/* begin PostHeaderIcon */
+.estiloAdministradorpostheader
+{
+   color: #302E33;
+   margin: 5px 0;
+   line-height: 1em;
+   font-size: 24px;
+   text-align: center;
+}
+
+.estiloAdministradorpostheader a, 
+.estiloAdministradorpostheader a:link, 
+.estiloAdministradorpostheader a:visited,
+.estiloAdministradorpostheader a.visited,
+.estiloAdministradorpostheader a:hover,
+.estiloAdministradorpostheader a.hovered
+{
+   font-size: 24px;
+   text-align: center;
+}
+
+.estiloAdministradorpostheader a, .estiloAdministradorpostheader a:link
+{
+   text-align: left;
+   text-decoration: none;
+   color: #C00C0F;
+}
+
+.estiloAdministradorpostheader a:visited, .estiloAdministradorpostheader a.visited
+{
+   color: #515251;
+}
+
+.estiloAdministradorpostheader a:hover,  .estiloAdministradorpostheader a.hovered
+{
+   text-decoration: underline;
+   color: #BB0C0F;
+}
+
+/* end PostHeaderIcon */
+
+/* begin PostIcons, PostHeaderIcons */
+.estiloAdministradorpostheadericons,
+.estiloAdministradorpostheadericons a,
+.estiloAdministradorpostheadericons a:link,
+.estiloAdministradorpostheadericons a:visited,
+.estiloAdministradorpostheadericons a:hover
+{
+   font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif;
+   font-size: 11px;
+   text-align: center;
+   color: #686A68;
+}
+
+.estiloAdministradorpostheadericons
+{
+   padding: 1px;
+}
+
+.estiloAdministradorpostheadericons a, .estiloAdministradorpostheadericons a:link
+{
+   font-style: italic;
+   font-weight: normal;
+   text-decoration: none;
+   color: #A30A0D;
+}
+
+.estiloAdministradorpostheadericons a:visited, .estiloAdministradorpostheadericons a.visited
+{
+   color: #55525B;
+}
+
+.estiloAdministradorpostheadericons a:hover, .estiloAdministradorpostheadericons a.hover
+{
+   text-decoration: underline;
+   color: #DD0E12;
+}
+
+/* end PostIcons, PostHeaderIcons */
+
+/* begin PostIcon, PostDateIcon */
+span.estiloAdministradorpostdateicon
+{
+   background:url('imagesM/postdateicon.png') no-repeat left 0.5em;
+   padding-top:9px;
+   margin-top:-9px;
+   padding-left:21px;
+   min-height:19px;
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.estiloAdministradorpostdateicon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostDateIcon */
+
+/* begin PostIcon, PostAuthorIcon */
+span.estiloAdministradorpostauthoricon
+{
+   background:url('imagesM/postauthoricon.png') no-repeat left 0.5em;
+   padding-top:9px;
+   margin-top:-9px;
+   padding-left:24px;
+   min-height:18px;
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.estiloAdministradorpostauthoricon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostAuthorIcon */
+
+/* begin PostIcon, PostEditIcon */
+span.estiloAdministradorpostediticon
+{
+   background:url('imagesM/postediticon.png') no-repeat left 0.5em;
+   padding-top:7px;
+   margin-top:-7px;
+   padding-left:20px;
+   min-height:14px;
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.estiloAdministradorpostediticon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostEditIcon */
+
+/* begin PostBullets */
+.estiloAdministradorpostcontent ol, .estiloAdministradorpostcontent ul
+{
+   margin: 1em 0 1em 2em;
+   padding: 0;
+}
+
+.estiloAdministradorpostcontent li
+{
+   font-size: 13px;
+   text-align: justify;
+   color: #141315;
+   margin: 5px 0 5px -15px;
+   padding: 0 0 0 12px;
+}
+
+.estiloAdministradorpostcontent li ol, .estiloAdministradorpost li ul
+{
+   margin: 0.5em 0 0.5em 2em;
+   padding: 0;
+}
+
+.estiloAdministradorpostcontent ol>li
+{
+   background: none;
+   padding-left: 0;
+   /* overrides overflow for "ul li" and sets the default value */
+  overflow: visible;
+}
+
+.estiloAdministradorpostcontent ul>li
+{
+   background-image: url('imagesM/postbullets.png');
+   background-repeat: no-repeat;
+   background-position: top left;
+   padding-left: 12px;
+   /* makes "ul li" not to align behind the image if they are in the same line */
+  overflow-x: visible;
+   overflow-y: hidden;
+}
+
+/* end PostBullets */
+
+/* begin PostQuote */
+blockquote,
+blockquote a, .estiloAdministradorpostcontent blockquote a, .estiloAdministradorblockcontent blockquote a, .estiloAdministradorfooter blockquote a,
+blockquote a:link, .estiloAdministradorpostcontent blockquote a:link, .estiloAdministradorblockcontent blockquote a:link, .estiloAdministradorfooter blockquote a:link,
+blockquote a:visited, .estiloAdministradorpostcontent blockquote a:visited, .estiloAdministradorblockcontent blockquote a:visited, .estiloAdministradorfooter blockquote a:visited,
+blockquote a:hover, .estiloAdministradorpostcontent blockquote a:hover, .estiloAdministradorblockcontent blockquote a:hover, .estiloAdministradorfooter blockquote a:hover
+{
+   color: #0F0F0F;
+   font-style: italic;
+   font-weight: normal;
+   text-align: justify;
+}
+
+/* Override native 'p' margins*/
+blockquote p,
+.estiloAdministradorpostcontent blockquote p,
+.estiloAdministradorblockcontent blockquote p,
+.estiloAdministradorfooter blockquote p
+{
+   margin: 0;
+}
+
+blockquote
+{
+   margin: 10px;
+   padding: 0;
+   background-color: #D8D9D8;
+   margin-left: 50px;
+   padding-left: 34px;
+   background-image: url('imagesM/postquote.png');
+   background-position: left top;
+   background-repeat: no-repeat;
+   /* makes block not to align behind the image if they are in the same line */
+  overflow: auto;
+   clear:both;
+}
+
+/* end PostQuote */
+
+/* begin PostMetadata, PostMetadataFooter */
+.estiloAdministradorpostmetadatafooter
+{
+   position:relative;
+   z-index:1;
+   padding: 1px;
+   background-image: url('imagesM/postmetadatafooter_bg.png');
+}
+/* end PostMetadata, PostMetadataFooter */
+
+/* begin PostIcons, PostFooterIcons */
+.estiloAdministradorpostfootericons,
+.estiloAdministradorpostfootericons a,
+.estiloAdministradorpostfootericons a:link,
+.estiloAdministradorpostfootericons a:visited,
+.estiloAdministradorpostfootericons a:hover
+{
+   font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Sans-Serif;
+   font-size: 11px;
+   text-align: center;
+   color: #3A3B3A;
+}
+
+.estiloAdministradorpostfootericons
+{
+   padding: 1px;
+}
+
+.estiloAdministradorpostfootericons a, .estiloAdministradorpostfootericons a:link
+{
+   font-style: italic;
+   font-weight: normal;
+   text-decoration: none;
+   color: #9E0A0D;
+}
+
+.estiloAdministradorpostfootericons a:visited, .estiloAdministradorpostfootericons a.visited
+{
+   color: #3F3D43;
+}
+
+.estiloAdministradorpostfootericons a:hover, .estiloAdministradorpostfootericons a.hover
+{
+   text-decoration: underline;
+   color: #9E0A0D;
+}
+
+/* end PostIcons, PostFooterIcons */
+
+/* begin PostIcon, PostCategoryIcon */
+span.estiloAdministradorpostcategoryicon
+{
+   background:url('imagesM/postcategoryicon.png') no-repeat left 0.5em;
+   padding-top:9px;
+   margin-top:-9px;
+   padding-left:24px;
+   min-height:18px;
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.estiloAdministradorpostcategoryicon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostCategoryIcon */
+
+/* begin PostIcon, PostTagIcon */
+span.estiloAdministradorposttagicon
+{
+   background:url('imagesM/posttagicon.png') no-repeat left 0.5em;
+   padding-top:9px;
+   margin-top:-9px;
+   padding-left:24px;
+   min-height:18px;
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.estiloAdministradorposttagicon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostTagIcon */
+
+/* begin PostIcon, PostCommentsIcon */
+span.estiloAdministradorpostcommentsicon
+{
+   background:url('imagesM/postcommentsicon.png') no-repeat left 0.5em;
+   padding-top:6px;
+   margin-top:-6px;
+   padding-left:20px;
+   min-height:12px;
+   display:inline-block;
+   line-height: 1em;
+}
+
+span.estiloAdministradorpostcommentsicon:after
+{
+   content: '.';
+   width: 1px;
+   visibility: hidden;
+   display: inline-block;
+}/* end PostIcon, PostCommentsIcon */
+
+/* begin Footer */
+.estiloAdministradorfooter
+{
+   position: relative;
+   margin-top:10px;
+   margin-bottom:0;
+   width: 100%;
+}
+
+.estiloAdministradorfooter-body
+{
+   position:relative;
+   padding: 15px;
+   color: #9D9F9D;
+   font-size: 11px;
+}
+
+.estiloAdministradorfooter-body ul li
+{
+   font-size: 13px;
+   line-height: 125%;
+   color: #EDEDED;
+   padding: 0 0 0 15px;
+   background-image: url('imagesM/footerbullets.png');
+   background-repeat: no-repeat;
+   background-position: top left;
+}
+
+.estiloAdministradorfooter-body:before
+{
+   position: absolute;
+   content:' ';
+   z-index:-2;
+   left:0;
+   right:0;
+   top:0;
+   bottom:50px;
+   background-image: url('imagesM/footer.png');
+   background-position:bottom left;
+}
+
+.estiloAdministradorfooter:before, .estiloAdministradorfooter:after 
+{
+   position: absolute;
+   content:' ';
+   z-index:-2;
+   bottom:0;
+   height:50px;
+   background-image: url('imagesM/footer_b.png');
+}
+
+.estiloAdministradorfooter:before
+{
+   left:0;
+   right:0;
+   background-position: bottom left;
+}
+
+.estiloAdministradorfooter:after
+{
+   right:0;
+   width:0;
+   background-position: bottom right;
+}
+
+.estiloAdministradorfooter-body .estiloAdministradorrss-tag-icon
+{
+   position: absolute;
+   left:   -6px;
+   bottom:0;
+   z-index:1;
+}
+
+.estiloAdministradorrss-tag-icon
+{
+   display: block;
+   background-image: url('imagesM/rssicon.png');
+   background-position: center right;
+   background-repeat: no-repeat;
+   height: 22px;
+   width: 22px;
+   cursor: default;
+}
+
+.estiloAdministradorfooter-text p
+{
+   padding:0;
+   margin:0;
+   text-align: center;
+}
+
+.estiloAdministradorfooter-body a,
+.estiloAdministradorfooter-body a:link,
+.estiloAdministradorfooter-body a:visited,
+.estiloAdministradorfooter-body a:hover,
+.estiloAdministradorfooter-body td, 
+.estiloAdministradorfooter-body th,
+.estiloAdministradorfooter-body caption
+{
+   color: #9D9F9D;
+   font-size: 11px;
+}
+
+.estiloAdministradorfooter-text
+{
+   min-height: 22px;
+   padding-left: 32px;
+   padding-right: 32px;
+   position: relative;
+   float: left;
+   left: 50%;
+   text-align: center;
+}
+
+.estiloAdministradorfooter-body a,
+.estiloAdministradorfooter-body a:link
+{
+   color: #F67476;
+   text-decoration: none;
+}
+
+.estiloAdministradorfooter-body a:visited
+{
+   color: #B4B6B4;
+}
+
+.estiloAdministradorfooter-body a:hover
+{
+   color: #F99FA1;
+   text-decoration: underline;
+}
+
+.estiloAdministradorfooter-center
+{
+   position: relative;
+   float: right;
+   right: 50%;
+}
+
+div.estiloAdministradorfooter img
+{
+   /* WARNING do NOT collapse this to 'border' - inheritance! */
+  border-width: 1px;
+   border-color: #B4B6B4;
+   border-style: solid;
+   margin: 10px;
+}/* end Footer */
+
+/* begin PageFooter */
+.estiloAdministradorpage-footer, 
+.estiloAdministradorpage-footer a,
+.estiloAdministradorpage-footer a:link,
+.estiloAdministradorpage-footer a:visited,
+.estiloAdministradorpage-footer a:hover
+{
+   font-family: Arial;
+   font-size: 10px;
+   letter-spacing: normal;
+   word-spacing: normal;
+   font-style: normal;
+   font-weight: normal;
+   text-decoration: underline;
+   color: #CBC9CF;
+}
+
+.estiloAdministradorpage-footer
+{
+   position: relative;
+   z-index: 10;
+   padding: 1em;
+   text-align: center;
+   text-decoration: none;
+   color: #B4B6B4;
+}
+/* end PageFooter */
+
+/* begin LayoutCell, sidebar1 */
+.estiloAdministradorcontent-layout .estiloAdministradorsidebar1
+{
+   width: 225px;
+}
+/* end LayoutCell, sidebar1 */
+
+
